@@ -1,0 +1,5 @@
+Num_Ind 569
+Num_SNP 21
+Num_Cov 9
+Num_Miner 3
+Runtime_iteration 10

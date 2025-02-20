@@ -1,0 +1,8 @@
+ECC public/private key generation :0.03250703811645508
+PRG key decryption :0.0926434278488159
+fisherscoring iteration 0:0.014016151428222656
+fisherscoring iteration 1:0.00970149040222168
+fisherscoring iteration 2:0.009605646133422852
+fisherscoring iteration 3:0.009490013122558594
+parallel regression phase 1 :0.004384756088256836
+parallel regression phase 2 :0.0026710033416748047
